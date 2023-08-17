@@ -1,0 +1,6 @@
+[submodule "project2_img_colorization"]
+	path = project2_img_colorization
+	url = https://github.com/EduardaCaldeira/computer_vision_2
+[submodule "project_1_homographies"]
+	path = project_1_homographies
+	url = https://github.com/EduardaCaldeira/computer_vision_1
